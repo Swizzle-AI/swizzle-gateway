@@ -1,4 +1,3 @@
-module github.com/Paramveersingh-S/swizzle/gateway
+module github.com/Swizzle-AI/swizzle-gateway
 
 go 1.22
-
